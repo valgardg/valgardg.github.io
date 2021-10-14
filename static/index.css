@@ -1,0 +1,39 @@
+/* STANDARD */
+
+body {
+    margin: 0px;
+}
+
+.content {
+    margin: 16px;
+}
+
+/* NAVBAR */
+
+.navbarDiv {
+    background-color: #333;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navbarItem {
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbarItem a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
